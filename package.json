@@ -9,7 +9,7 @@
   "author": "Rainer Stropek",
   "license": "MIT",
   "dependencies": {
+    "jquery": "^3.2.1"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
